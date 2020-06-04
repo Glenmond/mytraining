@@ -12,3 +12,5 @@ sum(2)
 print("ni hao")
 print("sup sup")
 print("welcome to more new changes")
+
+print("ninja van sucks")
